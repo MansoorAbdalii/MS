@@ -14,7 +14,7 @@
 
         #                                           #
 
-        #    Facebook BruteForce, by MANSOOR ABDALII✔ #
+        #    Facebook BruteForce, byMANSOOR ABDALII✔ #
 
         #    Facebook Contact: WHATSAPP 03409797249                #
 
@@ -70,7 +70,7 @@ print """
 
   \033[1;96m AUTHOR: MANSOOR ABDALII✔
 
-  \033[1;94m FACEBOOK: منصور ابدالی
+  \033[1;94m FACEBOOK: MANSOOR ABDALII
 
   \033[1;93m FACEBOOK GROUP: https://m.facebook.com/groups/1463330257231754
 
