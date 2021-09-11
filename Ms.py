@@ -4,7 +4,7 @@
 
 #CODER : MANSOOR ABDALII
 
-#FACEBOOK : منصور ابدالی
+
 
 #FACEBOOK GROUP: https://m.facebook.com/groups/1463330257231754        
 
